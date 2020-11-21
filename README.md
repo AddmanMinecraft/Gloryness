@@ -1,6 +1,7 @@
 ### Hi there, I'm Gloryness 👋
 
-I like to code, mainly in Python. 
+I like to code, mainly in Python.
+
 I started programming around December 2019 and have accomplished quite alot since then and I am a self-taught learner.
 
 - 🔭 I'm currently working on **Tassomai Automation** using the `requests` libary.
