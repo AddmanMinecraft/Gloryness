@@ -6,5 +6,5 @@ I started programming around December 2019 and have accomplished quite alot sinc
 
 - 🔭 I'm currently working on **Tassomai Automation** using the `requests` libary.
 - 🌱 I'm currently learning **discord.py**!
-- 📫 How to contact me: You can contact me by adding my discord `Gloryness#4341`.
+- 📫 How to contact me: You can contact me by adding me on discord: `Gloryness#4341`.
 - ⚡ Fun fact: I like to play Among Us (350+ hours playtime), Minecraft and some other singleplayer games
