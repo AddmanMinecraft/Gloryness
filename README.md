@@ -1,4 +1,4 @@
-### Hi there, I'm Gloryness 👋
+### Hey there, I'm Gloryness 👋
 
 I like to code, mainly in Python.
 
