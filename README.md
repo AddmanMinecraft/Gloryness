@@ -10,4 +10,4 @@ I started programming around December 2019 and have accomplished quite alot sinc
 - ⚡ Fun fact: I mainly play Minecraft (hypixel) and I used to play Among Us (350+ hours playtime) and alot of other singleplayer games!
 
 ### Github Stats
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gloryness&count_private=true&show_icons=true&theme=radical&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gloryness&count_private=true&show_icons=true&theme=radical" />
