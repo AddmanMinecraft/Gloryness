@@ -6,7 +6,7 @@ I started programming around December 2019 and have accomplished quite alot sinc
 
 - 🔭 I'm currently working on **Hypixel Goal Tracker** aswell as a discord bot revolving around Hypixel questing stats.
 - 🌱 I'm currently learning **discord.py** and working with **PIL (Python Image Libary)**!
-- 📫 How to contact me: You can contact me by adding me on discord: `gloryy#1342`.
+- 📫 How to contact me: You can contact me by adding me on discord: `Gloryness#0001`.
 - ⚡ Fun fact: I mainly play Minecraft (hypixel) and I used to play Among Us (350+ hours playtime) and alot of other singleplayer games!
 
 ### Github Stats
