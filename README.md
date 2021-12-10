@@ -13,7 +13,7 @@ I started programming around December 2019 and have accomplished quite alot sinc
 - `PIL` - Image manipulation
 
 ### 📪 Contact Me
-- **Discord:** `Gloryness#0001`
+- **Discord:** `Gloryness#5189`
 
 ### Github Stats
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gloryness&count_private=true&show_icons=true&theme=radical" />
