@@ -13,7 +13,7 @@ I started programming around December 2019 and have accomplished quite alot sinc
 - `PIL` - Image manipulation
 
 ### 📪 Contact Me
-- **Discord:** `Gloryness#5189`
+- **Discord:** `Gloryness#0001`
 
 ### Github Stats
 ![Profile views](https://gpvc.arturio.dev/Gloryness)<br><br>
