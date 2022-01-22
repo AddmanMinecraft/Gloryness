@@ -12,6 +12,7 @@ I started programming around December 2019 and have accomplished quite alot sinc
 ### 🌱 I'm currently learning:
 - `py-cord` - A maintained discord.py fork
 - `PIL` - Image manipulation
+- **MySQL**
 
 ### 📪 Contact Me
 - **Discord:** `Gloryness#0001`
