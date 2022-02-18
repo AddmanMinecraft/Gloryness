@@ -5,7 +5,7 @@ I like to code, mainly in Python.
 I started programming around December 2019 and have accomplished quite alot since then and I am a self-taught learner.
 
 ### 🔭 I'm currently working on:  
-- Questify - A discord bot that generates hypixel questing-related statistics.
+- **Questify** - A discord bot that generates hypixel questing-related statistics.
 - Tassomai Automation - An automation tool for automating Tassomai.
 - Hypixel Goal Tracker - A peice of software used to track anything on Hypixel.
 
