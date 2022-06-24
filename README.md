@@ -10,9 +10,8 @@ I started programming around December 2019 and have accomplished quite alot sinc
 - Hypixel Goal Tracker - A peice of software used to track anything on Hypixel.
 
 ### 🌱 I'm currently learning:
-- `py-cord` - A maintained discord.py fork
-- `PIL` - Image manipulation
-- **MySQL**
+- `HTML`
+- `CSS`
 
 ### 📪 Contact Me
 - **Discord:** `Gloryness#0001`
