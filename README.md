@@ -12,6 +12,7 @@ I started programming around December 2019 and have accomplished quite alot sinc
 ### 🌱 I'm currently learning:
 - `HTML`
 - `CSS`
+- `JavaScript`
 
 ### 📪 Contact Me
 - **Discord:** `Gloryness#0001`
