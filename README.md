@@ -6,7 +6,7 @@ I started programming around December 2019 and have accomplished quite alot sinc
 
 ### 🔭 I'm currently working on:  
 - **Questify** - A discord bot ([invite](https://discord.com/api/oauth2/authorize?client_id=884835091837235210&permissions=2147863552&scope=bot%20applications.commands)) that generates hypixel questing-related statistics. (300+ servers!)
-- Tassomai Automation - An automation tool for automating Tassomai. **`* sadly not anymore, the repository has been DMCA'd`**
+- Tassomai Automation - An automation tool for automating Tassomai. **`* github repository has been DMCA'd`**
 - Hypixel Goal Tracker - A peice of software used to track anything on Hypixel.
 
 ### 🌱 I'm currently learning:
