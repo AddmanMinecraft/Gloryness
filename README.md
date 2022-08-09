@@ -13,6 +13,7 @@ I started programming around December 2019 and have accomplished quite alot sinc
 - `HTML`
 - `CSS`
 - `JavaScript`
+- `React`
 
 ### 📪 Contact Me
 - **Discord:** `Gloryness#0001`
