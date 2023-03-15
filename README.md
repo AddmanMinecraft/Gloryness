@@ -15,7 +15,7 @@ I started programming around December 2019 and have accomplished quite alot sinc
 - `React`
 
 ### 📪 Contact Me
-- **Discord:** `Gloryness#0001`
+- **Discord:** `Gloryness#6665`
 
 ### Github Stats
 ![Profile views](https://gpvc.arturio.dev/Gloryness)<br><br>
