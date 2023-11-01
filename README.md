@@ -8,15 +8,15 @@ I started programming around December 2019 and have accomplished quite alot sinc
 - **Questify** - A discord bot ([invite](https://discord.com/api/oauth2/authorize?client_id=884835091837235210&permissions=2147863552&scope=bot%20applications.commands)) that generates hypixel questing-related statistics. (500+ servers!)
 - [Hypixel Goal Tracker](https://github.com/Gloryness/Hypixel-Goal-Tracker) - A peice of software used to track anything on Hypixel.
 - [Renaming Tool for TV Series](https://github.com/Gloryness/renaming-tool) - A tool to batch rename episodes within a TV series (Grabs episode names from Wikipedia - this is what makes this software unique).
-
-### 🔭 I'm currently working on:
 - [PTFS Joystick](https://github.com/Gloryness/ptfs-joystick)
 
+### 🔭 I'm currently working on:
+- My Portfolio Website that will be made with Flask
+
 ### 🌱 I'm currently learning:
-- `HTML`
-- `CSS`
-- `JavaScript`
-- `PHP`
+- `Web Development`
+  - `Flask`
+  - `PHP`
 
 ### 📪 Contact Me
 - **Discord:** `Gloryness#6665`
