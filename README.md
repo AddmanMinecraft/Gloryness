@@ -4,6 +4,8 @@ I like to code, mainly in Python.
 
 I started programming around December 2019 and have accomplished quite alot since then and I am a self-taught learner.
 
+My Portfolio Website, built with Flask: https://gloryness.net/
+
 ### 🛰️ Notable Projects I own:
 - **Questify** - A discord bot ([invite](https://discord.com/api/oauth2/authorize?client_id=884835091837235210&permissions=2147863552&scope=bot%20applications.commands)) that generates hypixel questing-related statistics. (500+ servers!)
 - [Hypixel Goal Tracker](https://github.com/Gloryness/Hypixel-Goal-Tracker) - A peice of software used to track anything on Hypixel.
@@ -11,15 +13,13 @@ I started programming around December 2019 and have accomplished quite alot sinc
 - [Joystick & Throttle Quadrant Integration](https://github.com/Gloryness/ptfs-joystick) with a Roblox flight simulator
 
 ### 🔭 I'm currently working on:
-- My Portfolio Website that will be made with Flask
+- To Be Determined
 
 ### 🌱 I'm currently learning:
-- `Web Development`
+- Computer Vision
+- Web Development
   - `Flask`
   - `PHP`
-
-### 📪 Contact Me
-- **Discord:** `Gloryness#6665`
 
 ### Github Stats
 ![Profile views](https://gpvc.arturio.dev/Gloryness)<br><br>
