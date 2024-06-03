@@ -16,10 +16,7 @@ My Portfolio Website, built with Flask: https://gloryness.net/
 - To Be Determined
 
 ### 🌱 I'm currently learning:
-- Computer Vision
-- Web Development
-  - `Flask`
-  - `PHP`
+- To Be Determined
 
 ### Github Stats
 ![Profile views](https://gpvc.arturio.dev/Gloryness)<br><br>
