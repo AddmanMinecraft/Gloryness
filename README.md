@@ -19,5 +19,4 @@ My Portfolio Website, built with Flask: https://gloryness.net/
 - To Be Determined
 
 ### Github Stats
-![Profile views](https://gpvc.arturio.dev/Gloryness)<br><br>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gloryness&count_private=true&show_icons=true&theme=radical" />
